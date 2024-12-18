@@ -73,10 +73,6 @@ Contributions are welcome! If you have suggestions for new features, optimizatio
 - Enhance the GUI with `pygame` or other frameworks.
 - Integrate an opening book for stronger play in the early game.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspiration from classic chess engines like Stockfish.
